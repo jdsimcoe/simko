@@ -1,0 +1,7 @@
+for article, slug in public.articles._data
+  article.content
+    section.main
+      a(href="/articles/#{ slug }")
+        aside= article.date
+        .right
+          h2= article.title

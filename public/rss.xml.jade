@@ -1,0 +1,10 @@
+!!!xml
+rss(version='2.0')
+  channel
+    title #{ title }
+    link #{ site_url }/
+    each article, slug in public.articles._data
+      item
+        title #{ article.title }
+        link #{ site_url }/articles/#{ slug }
+        description <![CDATA[!{ partial("articles/" + slug) }]]>

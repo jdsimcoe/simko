@@ -1,0 +1,11 @@
+li = 0
+each aside, slug in public.asides._data
+  if (li < log_main)
+    - li = li + 1
+    article.content
+      section.main
+        a(href="#{ aside.url }")
+          aside= aside.date
+          .right
+            h2= aside.title
+            p= aside.description

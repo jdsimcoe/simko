@@ -1,0 +1,34 @@
+{
+  "athey-creek": {
+    "title": "Athey Creek",
+    "url": "http://atheycreek.com/",
+    "logo": "/assets/img/projects/athey-creek-logo.jpg",
+    "showcase" : "/assets/img/projects/athey-creek-showcase.jpg",
+    "start-date": "June 2012",
+    "description": "Athey Creek Christian Fellowship is a non-denominational Christian church in Wilsonville, OR. Their hallmark since 1996 is their commitment to teaching through the Bible. Under the leadership of Pastor Brett Meador and the elders, the church has grown from a small group of believers meeting in a school to an average weekly attendance of 2,500+."
+  },
+  "dapper-and-wise": {
+    "title": "Dapper & Wise",
+    "url": "http://dapperandwise.com",
+    "logo": "/assets/img/projects/dapper-and-wise-logo.jpg",
+    "showcase" : "/assets/img/projects/dapper-and-wise-showcase.jpg",
+    "start-date": "July 2013",
+    "description": "Dapper & Wise Roasters is a premier, artisan coffee roasting outfit in the suburbs of Portland, OR. Run by Evan Aldrete and Tyler Geel, this fabulous duo roasts, craft, and brew some amazing java."
+  },
+  "athey-creek": {
+    "title": "Athey Creek",
+    "url": "http://atheycreek.com/",
+    "logo": "/assets/img/projects/athey-creek-logo.jpg",
+    "showcase" : "/assets/img/projects/athey-creek-showcase.jpg",
+    "start-date": "June 2012",
+    "description": "Athey Creek Christian Fellowship is a non-denominational Christian church in Wilsonville, OR. Their hallmark since 1996 is their commitment to teaching through the Bible. Under the leadership of Pastor Brett Meador and the elders, the church has grown from a small group of believers meeting in a school to an average weekly attendance of 2,500+."
+  },
+  "dapper-and-wise": {
+    "title": "Dapper & Wise",
+    "url": "http://dapperandwise.com",
+    "logo": "/assets/img/projects/dapper-and-wise-logo.jpg",
+    "showcase" : "/assets/img/projects/dapper-and-wise-showcase.jpg",
+    "start-date": "July 2013",
+    "description": "Dapper & Wise Roasters is a premier, artisan coffee roasting outfit in the suburbs of Portland, OR. Run by Evan Aldrete and Tyler Geel, this fabulous duo roasts, craft, and brew some amazing java."
+  }
+}

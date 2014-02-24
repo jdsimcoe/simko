@@ -1,0 +1,24 @@
+// Variables
+// ================================================
+
+// colors
+$color1: #2c2c2a;
+$color2: #bfc0bb;
+$color3: #fff100;
+$color4: #231f20;
+
+$color-white: #ffffff;
+$color-black: #000000;
+$color-brand: #34495e;
+$color-accent: #f1c40f;
+$color-links: lighten($color4, 60%);
+
+$color-success: #43d99b;
+$color-error: #ff4d24;
+
+$visual-grid: false;
+
+// type
+$font-path: '/assets/fonts/';
+$font-heading: 'futura-pt', 'Futura', 'Proxima Nova', Helvetica, Arial, sans-serif;
+$font-body: 'abril-text', 'Abril Text', Georgia, Times, serif;
