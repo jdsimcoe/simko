@@ -85,6 +85,12 @@ nav {
 // Content
 // ================================================
 
+.subhead {
+  text-align: center;
+  font-family: $font-heading;
+  padding: 2rem;
+}
+
 .content {
   @include outer-container;
 
@@ -97,6 +103,57 @@ nav {
       @include span-columns(12);
       @include shift(0);
     }
+
+    img {
+
+      &.breakout {
+        margin-left: -3rem;
+        max-width: 110%;
+      }
+
+    }
+
+    .caption {
+      color: lighten($color1, 30%);
+      display: block;
+      font-family: $font-heading;
+      font-size: 1rem;
+      margin: 0.5rem 0 1.5rem 0;
+      text-align: center;
+      text-transform: uppercase;
+    }
+  }
+
+}
+
+.article {
+  margin-top: 4rem;
+
+  &.standalone {
+    margin-top: 0;
+  }
+
+  span.date {
+    display: block;
+    font-family: $font-heading;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  h2 {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 0;
+
+    a {
+      color: lighten($color1, 15%);
+      border-color: lighten($color2, 35%);
+    }
+  }
+
+  p {
+    line-height: 1.6;
   }
 
 }
@@ -105,18 +162,17 @@ nav {
 // ================================================
 
 .links {
+  display: table;
 
   .project {
     border: 1px solid #ccc;
     border-right: none;
-    display: inline-block;
     width: 25%;
     padding: 2rem;
     text-align: center;
 
     &:last-child {
       border-right: 1px solid #ccc;
-      padding-top: 2.1rem;
     }
 
     a {
@@ -137,4 +193,70 @@ nav {
     }
   }
 
+
+  .log {
+    background: lighten($color1, 80%);
+    border: 1px solid #ccc;
+    border-right: none;
+    display: block;
+    float: left;
+    overflow: hidden;
+    padding: 3rem 1.5rem;
+    text-align: center;
+    width: 25%;
+
+    &:hover {
+      background: lighten($color1, 75%);
+    }
+
+    &:last-child {
+      border-right: 1px solid #ccc;
+    }
+
+    a {
+      border: none;
+
+      span {
+        font-family: $font-heading;
+        font-size: 1rem;
+        text-transform: uppercase;
+        margin: 0.5rem 0;
+      }
+
+      h3 {
+        margin: 0;
+        padding-bottom: 0.5rem;
+      }
+
+      img {
+        width: 75%;
+        outline: none;
+      }
+
+      p {
+        font-size: 1rem;
+        margin: 0;
+        max-height: 5rem;
+        min-height: 5rem;
+      }
+
+    }
+  }
+
+}
+
+// Footer
+// ================================================
+
+footer {
+  border-top: 3px solid darken($color-white, 5%);
+  margin-top: 4rem;
+  padding: 3rem;
+  text-align: center;
+
+  .rss {
+    a {
+      margin: 0.5rem
+    }
+  }
 }

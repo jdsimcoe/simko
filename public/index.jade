@@ -4,15 +4,17 @@ each article, slug in public.articles._data
     - li = li + 1
     article.content
       section.main
-        span.date= article.date
-        != partial("/articles/" + slug, article)
+        .article
+          span.date= article.date
+          != partial("/articles/" + slug, article)
 
-li2 = 0
-each aside, slug in public.asides._data
-  if (li2 < log_home)
-    - li2 = li2 + 1
-    ul.links
-      a(href="#{ aside.url }")
-        span= aside.date
-        h2= aside.title
-        p= aside.description
+//- .links
+//-   li2 = 0
+//-   each logs, slug in public.logs._data
+//-     if (li2 < log_home)
+//-       - li2 = li2 + 1
+//-       .log
+//-         a(href="#{ logs.url }")
+//-           span= logs.date
+//-           h3= logs.title
+//-           p= logs.description

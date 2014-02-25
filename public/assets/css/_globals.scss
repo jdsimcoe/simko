@@ -1,5 +1,5 @@
 // Globals
-// ------------------------------------------------
+// ================================================
 
 * {
   text-rendering: optimizeLegibility !important;
@@ -26,8 +26,8 @@ body {
 hr {
   background: none;
   border: none;
-  border-top: 2px solid darken($color-white, 5%);
-  margin: 1em 0;
+  border-top: 1px solid darken($color-white, 5%);
+  margin: 2.5rem 0;
 
   &.large {
     background: none;
@@ -42,13 +42,25 @@ hr {
   }
 }
 
+blockquote {
+  border-left: 3px solid lighten($color1, 80%);
+  margin: 0;
+  padding-left: 2rem;
+  font-family: $font-heading;
+  font-weight: 400;
+
+  strong {
+    font-weight: 700;
+  }
+}
+
 a {
-  color: lighten($color-black, 20%);
+  color: darken($color2, 15%);
   text-decoration: none;
-  border-bottom: 2px solid lighten($color1, 20%);
+  border-bottom: 2px solid lighten($color1, 75%);
 
   &:hover {
-    border-bottom: 2px solid $color1;
+    border-bottom: 2px solid lighten($color1, 55%);
   }
 }
 

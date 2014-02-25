@@ -1,5 +1,3 @@
-##[Seeking Out Truth](/articles/seeking-out-truth)
-
 I don't know what is wrong with me, but I seriously enjoy the kids movie [*City of Ember*](https://itunes.apple.com/us/movie/city-of-ember/id299413486) based on the science fiction series by Jeanne DuPrau of the same name.
 
 There is something that is both haunting and fascinating about [the underground](http://www.theblogbelow.com/) that originally drew me to the movie and continues to hold me captive every time I watch it. Also, the movie is very stylized and very "designed", for lack of a better word. If you watch the movie, you will notice that the Builders possessed a keen sense of style and branding as everything they produce looks like it is set in [Futura Bold](http://www.typophile.com/node/12494) all caps.

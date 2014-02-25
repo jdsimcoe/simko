@@ -22,8 +22,9 @@ html(lang="en")
 
     article.content
       section.main
-        span.date= date
-        != yield
+        .article
+          span.date= date
+          != yield
 
     != partial("../_partials/footer")
     != partial("../_partials/ga")
