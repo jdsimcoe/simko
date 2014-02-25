@@ -14,6 +14,8 @@
     "log_main": "15",
     "log_home": "3",
 
+    "ua_id": "UA-4548059-7",
+
     "disqus": {
       "enabled": false,
       "shortname": ""
