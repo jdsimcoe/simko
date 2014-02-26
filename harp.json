@@ -2,23 +2,18 @@
   "domains": [""],
   "globals": {
     "site_title": "Web Design + Build by Jonathan Simcoe",
-    "description": "code, writing, and work from Jonathan Simcoe",
-    "punchline": "nothing special, just my personal blog...",
-    "author_avatar": "/assets/images/author.png",
+    "site_description": "code, writing, and work from Jonathan Simcoe",
+    "site_keywords" : "Jonathan Simcoe, Simcoe Design LLC, web design, graphic design, identity design, blog, portfolio",
+    "site_author": "Jonathan Simcoe, Simcoe Design LLC, Simko.io",
+
     "copyright": "2013-2104. Simcoe Design LLC. All rights reserved.",
 
-    "site_keywords" : "Jonathan Simcoe, Simcoe Design LLC, web design, graphic design, identity design, blog, portfolio",
-    "site_url": "http://simko.io",
+    "site_url": "http://www.simko.io",
 
     "articles_home": "1",
     "log_main": "15",
     "log_home": "4",
 
-    "ua_id": "UA-4548059-7",
-
-    "disqus": {
-      "enabled": false,
-      "shortname": ""
-    }
+    "ua_id": "UA-4548059-7"
   }
 }
