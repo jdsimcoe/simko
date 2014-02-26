@@ -3,7 +3,7 @@ h2.subhead The Writing Archive
 for article, slug in public.articles._data
   article.content
     section.main
-      a(href="/articles/#{ slug }")
-        aside= article.date
-        .right
+      .archive
+        a(href="/articles/#{ slug }")
+          .date= article.date
           h2= article.title

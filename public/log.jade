@@ -5,7 +5,7 @@ h2.subhead Some Things To Delight
     each logs, slug in public.logs._data
       if (li < log_main)
         - li = li + 1
-          .log
+          .links
             a(href="#{ logs.url }")
               span= logs.date
               h3= logs.title

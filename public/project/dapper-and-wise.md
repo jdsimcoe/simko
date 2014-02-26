@@ -1,3 +1,5 @@
+## Dapper & Wise
+
 Dapper & Wise wanted a sleek, clean looking site with original photography to compliment their top-notch coffee roasting outfit in Beaverton, OR.
 
 ### The Site

@@ -22,9 +22,10 @@ html(lang="en")
 
     article.content
       section.main
-        .logo
-          img(src="#{ logo }")
-        img(src="#{ showcase }")
+        .article.standalone
+          .logo
+            img(src="#{ logo }")
+          img(src="#{ showcase }")
 
         != yield
 
