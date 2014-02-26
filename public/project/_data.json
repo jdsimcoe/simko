@@ -4,6 +4,7 @@
     "url": "http://atheycreek.com/",
     "logo": "/assets/img/projects/athey-creek-logo.svg",
     "showcase" : "/assets/img/projects/athey-creek-showcase.jpg",
+    "caption" : "Front-end development, design, photogrpahy, and creative direction",
     "start-date": "June 2012",
     "description": "Athey Creek Christian Fellowship is a non-denominational Christian church in Wilsonville, OR. Their hallmark since 1996 is their commitment to teaching through the Bible. Under the leadership of Pastor Brett Meador and the elders, the church has grown from a small group of believers meeting in a school to an average weekly attendance of 2,500+."
   },
@@ -12,6 +13,7 @@
     "url": "http://dapperandwise.com",
     "logo": "/assets/img/projects/dapper-and-wise-logo.svg",
     "showcase" : "/assets/img/projects/dapper-and-wise-showcase.jpg",
+    "caption" : "A single-page site with original photography",
     "start-date": "July 2013",
     "description": "Dapper & Wise Roasters is a premier, artisan coffee roasting outfit in the suburbs of Portland, OR. Run by Evan Aldrete and Tyler Geel, this fabulous duo roasts, craft, and brew some amazing java."
   },
@@ -20,6 +22,7 @@
     "url": "http://insomniacoffee.co/",
     "logo": "/assets/img/projects/insomnia-coffee-co-logo.svg",
     "showcase" : "/assets/img/projects/insomnia-coffee-co-showcase.jpg",
+    "caption" : "A completely redesigned website with original photography",
     "start-date": "October 2013",
     "description": "Insomnia Coffee Co. started in the NW with the goal of bringing a rich, artisan coffee experience to the suburbs of Portland, OR. They have succeeded and even expanded with a location in Cannon Beach and now roast their own coffee. Evan and Tyler are masterminds of good coffee, great ambience, and an original style that is all their own."
   },
@@ -28,6 +31,7 @@
     "url": "http://songsforsaplings.com",
     "logo": "/assets/img/projects/songs-for-saplings-logo.svg",
     "showcase" : "/assets/img/projects/songs-for-saplings-showcase.jpg",
+    "caption" : "An original site and revamped branding, built from scratch",
     "start-date": "September 2013",
     "description": "Songs for Saplings is the ministry of James and Dana Dirksen. They marry orthodox Christian catechesis with fresh, original music for children and families. Their desire is to see the truth of God's Word take root in the hearts of children and families that the Gospel message might reach many people and that God would be glorified."
   },
@@ -36,6 +40,7 @@
     "url": "http://dtr.mn",
     "logo": "/assets/img/projects/determine-logo.svg",
     "showcase" : "/assets/img/projects/determine-showcase.jpg",
+    "caption" : "Sampling of my design and web work for Determine",
     "start-date": "March 2012",
     "description": "Determine is a ministry that my wife and I began several years ago. Born out of our own challenges and struggles, we wanted to see Jesus Christ and His life, death, resurrection, and ascension be known by all peoples in every aspect of life."
   },
@@ -44,6 +49,7 @@
     "url": "http://nightwind.co",
     "logo": "/assets/img/projects/nightwind-productions-logo.svg",
     "showcase" : "/assets/img/projects/nightwind-productions-showcase.jpg",
+    "caption" : "An original branding and custom site for Nightwind",
     "start-date": "December 2013",
     "description": "Nightwind Productions is the brainchild of [Nate DeCoste](https://twitter.com/NateDeCoste). It is a Christian publishing company that will ultimately house his original youth ministry, curriculum, plays, original writing, and a magazine on Christianity and culture for youth and youth leaders."
   },
@@ -51,6 +57,7 @@
     "title": "Compass",
     "logo": "/assets/img/projects/compass-logo.svg",
     "showcase" : "/assets/img/projects/compass-showcase.jpg",
+    "caption" : "Samples of my design work for Compass",
     "start-date": "May 2011",
     "description": "Compass was founded in the 1990s by Joseph K. Meyer as a boutique investment consultancy. After forays in and out of the fund-of-funds and consultancy space, Compass is again pursuing the offering of boutique investment services abroad."
   },
@@ -59,6 +66,7 @@
     "url": "http://raleighhillsdental.com",
     "logo": "/assets/img/projects/raleigh-hills-dental-logo.svg",
     "showcase" : "/assets/img/projects/raleigh-hills-dental-showcase.jpg",
+    "caption" : "A custom website, built from scratch for Raleigh Hills Dental",
     "start-date": "May 2013",
     "description": "Raleigh Hills Dental is one of a trio of offices in the Portland area run by Robert and Dan Rodriquez. These crazy brothers are awesome guys, that have a family approach to dental care, providing their services in a warm and inviting atmosphere."
   }

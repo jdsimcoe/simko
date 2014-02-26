@@ -25,7 +25,9 @@ html(lang="en")
         .article.standalone
           .logo
             img(src="#{ logo }")
-          img(src="#{ showcase }")
+          img.breakout(src="#{ showcase }")
+          if caption
+            span.caption #{ caption }
 
         != yield
 
