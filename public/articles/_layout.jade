@@ -24,6 +24,12 @@ html(lang="en")
       section.main
         .article
           span.date= date
+          h2
+            a(href='/articles/#{ current.path[1] }') #{ title }
+          if breakout
+            img.breakout(src='#{ breakout }')
+          if caption
+            span.caption #{ caption }
           != yield
 
     != partial("../_partials/footer")

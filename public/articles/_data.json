@@ -1,15 +1,21 @@
 {
   "just-enough": {
     "title": "Just Enough",
-    "date": "January 9, 2014"
+    "date": "January 9, 2014",
+    "breakout": "http://cl.ly/image/1u3S3K1N1j2z/things-desktop.jpg",
+    "caption": "Things running on my laptop"
   },
   "fourteen": {
     "title": "Fourteen",
-    "date": "December 18, 2013"
+    "date": "December 18, 2013",
+    "breakout": "http://cl.ly/image/2p0n0n1r3104/fourteen-sm.jpg",
+    "caption": "A desktop wallpaper made from a picture in NW Portland"
   },
   "seeking-out-truth": {
     "title": "Seeking Out Truth",
-    "date" : "April 15, 2013"
+    "date" : "April 15, 2013",
+    "breakout": "http://cl.ly/image/1s3Q1c18240d/city-of-ember-sm.jpg",
+    "caption": "A picture from the opening sequence of 'City of Ember'"
   },
   "making-things": {
     "title": "Making Things",

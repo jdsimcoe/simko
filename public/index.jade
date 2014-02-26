@@ -6,15 +6,10 @@ each article, slug in public.articles._data
       section.main
         .article
           span.date= article.date
+          h2
+            a(href='/articles/#{ slug }') #{ article.title }
+          if article.breakout
+            img.breakout(src='#{ article.breakout }')
+          if article.caption
+            span.caption #{ article.caption }
           != partial("/articles/" + slug, article)
-
-//- .links
-//-   li2 = 0
-//-   each logs, slug in public.logs._data
-//-     if (li2 < log_home)
-//-       - li2 = li2 + 1
-//-       .log
-//-         a(href="#{ logs.url }")
-//-           span= logs.date
-//-           h3= logs.title
-//-           p= logs.description

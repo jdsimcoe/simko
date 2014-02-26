@@ -109,6 +109,12 @@ nav {
       &.breakout {
         margin-left: -3rem;
         max-width: 110%;
+
+        @include media($tablet) {
+          margin-left: -1.5rem;
+          max-width: 120%;
+        }
+
       }
 
     }
@@ -121,6 +127,10 @@ nav {
       margin: 0.5rem 0 1.5rem 0;
       text-align: center;
       text-transform: uppercase;
+    }
+
+    @include media($tablet) {
+      padding: 1.5rem;
     }
   }
 
@@ -272,14 +282,19 @@ nav {
 // ================================================
 
 footer {
-  border-top: 3px solid darken($color-white, 5%);
+  border-top: 2px solid lighten($color1, 77%);
+  font-family: $font-heading;
+  font-size: 1.2rem;
   margin-top: 4rem;
   padding: 3rem;
   text-align: center;
+  text-transform: uppercase;
 
   .rss {
     a {
-      margin: 0.5rem
+      font-size: 1.2rem;
+      margin: 0.5rem;
+      text-transform: none;
     }
   }
 }

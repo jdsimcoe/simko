@@ -1,7 +1,7 @@
 {
   "domains": [""],
   "globals": {
-    "site_title": "Simko.io (Web Design + Build by Jonathan Simcoe)",
+    "site_title": "Web Design + Build by Jonathan Simcoe",
     "description": "code, writing, and work from Jonathan Simcoe",
     "punchline": "nothing special, just my personal blog...",
     "author_avatar": "/assets/images/author.png",

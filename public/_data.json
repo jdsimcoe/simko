@@ -5,7 +5,16 @@
   "log-rss": {
     "layout": false
   },
-  "articles": {
-    "title": "Articles"
+  "archive": {
+    "title": "Archive"
+  },
+  "log": {
+    "title": "Log"
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "about": {
+    "title": "About"
   }
 }
