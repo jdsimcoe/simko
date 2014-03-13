@@ -85,7 +85,7 @@
 
 // rubberBand
 
-@mixin rubberBand {
+@mixin rubber-band {
   @-webkit-keyframes rubberBand {
     0% {
       -webkit-transform: scale(1);

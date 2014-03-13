@@ -61,6 +61,8 @@ a {
 
   &:hover {
     border-bottom: 2px solid lighten($color1, 55%);
+    @include animate-simple();
+    @include animate-simple(border-color);
   }
 }
 

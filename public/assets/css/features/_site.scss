@@ -2,7 +2,7 @@
 // ================================================
 
 @include animation(fade-in-down);
-@include animation(fade-in-up);
+@include animation(fade-in);
 
 // Header
 // ================================================
@@ -54,7 +54,7 @@ nav {
       display: inline-block;
       list-style-type: none;
       padding: 0 1rem;
-      @include animate(fade-in-down, 1s, 500ms);
+      @include animate(fade-in, 1s);
 
       a {
         border: none;
@@ -73,7 +73,7 @@ nav {
       }
 
       &.active {
-        @include animate(fade-in-down, 0, 0);
+        @include animate(fade-in, 0, 0);
 
         a {
           border-bottom: 3px solid lighten($color1, 10%);
