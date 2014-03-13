@@ -9,7 +9,7 @@ That is what this blog is about. It is about craftsmanship, technology, and the 
 
 I am excited to share my thoughts and learnings and hopefully we can all grow together.
 
-I <del>chose Symphony</del> moved to [Harp](http://harpjs.com) for this site's platform because it honors things that I have grown to appreciate, things like Markdown for marking up text, a dead-simple NodeJS web server that auto-builds Sass, LESS, and Coffeescript and an amazing asset pipeline. I'm excited to explore and push the limits of Harp as I write here and add content over the coming weeks and months.
+I <del>chose Symphony</del> moved to [Harp](http://harpjs.com) for this site's platform because it honors things that I have grown to appreciate, things like Markdown for marking up text, a dead-simple NodeJS web server that auto-builds Sass, LESS, and CoffeeScript and an amazing asset pipeline. I'm excited to explore and push the limits of Harp as I write here and add content over the coming weeks and months.
 
 Enjoy!
 

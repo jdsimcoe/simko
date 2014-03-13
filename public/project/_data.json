@@ -2,7 +2,7 @@
   "athey-creek": {
     "title": "Athey Creek",
     "url": "http://atheycreek.com/",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/athey-creek-logo.svg",
+    "logo": "/assets/img/projects/athey-creek-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/athey-creek-showcase.jpg",
     "caption" : "Front-end development, design, photogrpahy, and creative direction",
     "start-date": "June 2012",
@@ -11,7 +11,7 @@
   "dapper-and-wise": {
     "title": "Dapper & Wise",
     "url": "http://dapperandwise.com",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/dapper-and-wise-logo.svg",
+    "logo": "/assets/img/projects/dapper-and-wise-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/dapper-and-wise-showcase.jpg",
     "caption" : "A single-page site with original photography",
     "start-date": "July 2013",
@@ -20,7 +20,7 @@
   "insomnia-coffee-co": {
     "title": "Insomnia",
     "url": "http://insomniacoffee.co/",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/insomnia-coffee-co-logo.svg",
+    "logo": "/assets/img/projects/insomnia-coffee-co-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/insomnia-coffee-co-showcase.jpg",
     "caption" : "A completely redesigned website with original photography",
     "start-date": "October 2013",
@@ -29,7 +29,7 @@
   "songs-for-saplings": {
     "title": "Saplings",
     "url": "http://songsforsaplings.com",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/songs-for-saplings-logo.svg",
+    "logo": "/assets/img/projects/songs-for-saplings-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/songs-for-saplings-showcase.jpg",
     "caption" : "An original site and revamped branding, built from scratch",
     "start-date": "September 2013",
@@ -38,7 +38,7 @@
   "determine": {
     "title": "Determine",
     "url": "http://dtr.mn",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/determine-logo.svg",
+    "logo": "/assets/img/projects/determine-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/determine-showcase.jpg",
     "caption" : "Sampling of my design and web work for Determine",
     "start-date": "March 2012",
@@ -47,7 +47,7 @@
   "nightwind": {
     "title": "Nightwind",
     "url": "http://nightwind.co",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/nightwind-productions-logo.svg",
+    "logo": "/assets/img/projects/nightwind-productions-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/nightwind-productions-showcase.jpg",
     "caption" : "An original branding and custom site for Nightwind",
     "start-date": "December 2013",
@@ -55,7 +55,7 @@
   },
   "compass": {
     "title": "Compass",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/compass-logo.svg",
+    "logo": "/assets/img/projects/compass-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/compass-showcase.jpg",
     "caption" : "Samples of my design work for Compass",
     "start-date": "May 2011",
@@ -64,7 +64,7 @@
   "raleigh-hills-dental": {
     "title": "RH Dental",
     "url": "http://raleighhillsdental.com",
-    "logo": "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/raleigh-hills-dental-logo.svg",
+    "logo": "/assets/img/projects/raleigh-hills-dental-logo.svg",
     "showcase" : "https://dl.dropboxusercontent.com/u/960204/simko.io/projects/raleigh-hills-dental-showcase.jpg",
     "caption" : "A custom website, built from scratch for Raleigh Hills Dental",
     "start-date": "May 2013",
