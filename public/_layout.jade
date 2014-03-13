@@ -18,7 +18,7 @@ html(lang="en")
 
     != partial("_partials/typekit")
 
-  body(class="page-#{ current.path[0] } #{ current.path.join('-') }")
+  body(class="page-#{ current.path[0] }")
     != partial("_partials/header")
 
     != yield
