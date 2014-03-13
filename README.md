@@ -1,3 +1,3 @@
 # Simko.io
 
-This is the public repository of Jonathan Simcoe. More to come soon...
+The personal portfolio website and blog of Jonathan Simcoe and Simcoe Design LLC
