@@ -10,4 +10,4 @@ I brought them together in this wallpaper to capture the moment. I just dusted i
 
 Here is the download:
 
-[Fourteen Wallpaper](http://cl.ly/image/263W3U052k0h/fourteen.jpg)
+[Fourteen Wallpaper](https://dl.dropboxusercontent.com/u/960204/simko.io/articles/fourteen.jpg)

@@ -1,4 +1,10 @@
 {
+  "animate-css": {
+    "title": "Animate.css",
+    "date": "March 13, 2014",
+    "url": "http://daneden.github.io/animate.css/",
+    "description": "Dan Eden has created some beautiful CSS animations for use in your next project. He does really nice work."
+  },
   "sketch-app": {
     "title": "Sketch.app",
     "date": "March 12, 2014",
