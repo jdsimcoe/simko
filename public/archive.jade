@@ -1,8 +1,9 @@
 h2.subhead The Writing Archive
 
-for article, slug in public.articles._data
-  article.content
-    section.main
+article.content.content-archive
+  section.main
+
+    for article, slug in public.articles._data
       .archive
         a(href="/articles/#{ slug }")
           .date= article.date
