@@ -1,8 +1,18 @@
 // Animate.css
 // ================================================
 
+@import "animate/attention-seekers";
 @import "animate/fading-entrances";
 @import "animate/fading-exits";
+@import "animate/flippers";
+
+@mixin animation($animation-type:null) {
+  @if $animation-type == fade-in-down {
+    @include fade-in-down();
+  } @elseif $animation-type == fade-in-up {
+    @include fade-in-up();
+  }
+}
 
 @mixin animate($animation-type:null, $animation-duration: 1s, $animation-delay: null) {
   -webkit-animation-duration: $animation-duration;
@@ -25,8 +35,9 @@
     @include animation-call(fadeInDown);
   } @elseif $animation-type == fade-in-up {
     @include animation-call(fadeInUp);
-  }
+  } @else {
 
+  }
 }
 
 @mixin animation-call($animation-name) {
@@ -34,16 +45,6 @@
   -moz-animation-name: $animation-name;
   -o-animation-name: $animation-name;
   animation-name: $animation-name;
-}
-
-@mixin animation($animation-type:null) {
-
-  @if $animation-type == fade-in-down {
-    @include fade-in-down();
-  } @elseif $animation-type == fade-in-up {
-    @include fade-in-up();
-  }
-
 }
 
 

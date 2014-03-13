@@ -26,7 +26,7 @@ html(lang="en")
         .article
           span.date= date
           h2
-            a(href='/articles/#{ current.path[1] }') #{ title }
+            a(href='/article/#{ current.path[1] }') #{ title }
           if breakout
             img.breakout(src='#{ breakout }')
           if caption

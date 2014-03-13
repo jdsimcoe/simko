@@ -41,7 +41,6 @@ header {
 nav {
   padding: 1rem  0;
   font-weight: 400;
-  @include animate(fade-in-down, 1s, 750ms);
 
   ul {
     list-style: none;
@@ -55,6 +54,7 @@ nav {
       display: inline-block;
       list-style-type: none;
       padding: 0 1rem;
+      @include animate(fade-in-down, 1s, 500ms);
 
       a {
         border: none;
@@ -73,6 +73,7 @@ nav {
       }
 
       &.active {
+        @include animate(fade-in-down, 0, 0);
 
         a {
           border-bottom: 3px solid lighten($color1, 10%);

@@ -1,5 +1,5 @@
 li = 0
-each article, slug in public.articles._data
+each article, slug in public.article._data
   if (li < articles_home)
     - li = li + 1
     article.content
@@ -7,9 +7,9 @@ each article, slug in public.articles._data
         .article
           span.date= article.date
           h2
-            a(href='/articles/#{ slug }') #{ article.title }
+            a(href='/article/#{ slug }') #{ article.title }
           if article.breakout
             img.breakout(src='#{ article.breakout }')
           if article.caption
             span.caption #{ article.caption }
-          != partial("/articles/" + slug, article)
+          != partial("/article/" + slug, article)
