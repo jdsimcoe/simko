@@ -1,4 +1,10 @@
 {
+  "animated-sass": {
+    "title": "Animate(d).sass",
+    "date": "March 14, 2014",
+    "url": "http://daneden.github.io/animate.css/",
+    "description": "An opinionated port of Dan Eden's Animate.css into Sass and my first Sass/Sache plugin."
+  },
   "animate-css": {
     "title": "Animate.css",
     "date": "March 13, 2014",
