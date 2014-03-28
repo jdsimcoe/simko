@@ -1,4 +1,10 @@
 {
+  "refills": {
+    "title": "Refills",
+    "date": "March 28, 2014",
+    "url": "http://refills.bourbon.io",
+    "description": "Thoughtbot, the team behind Bourbon, Neat, and Bitters launched a beautiful little pattern library."
+  },
   "animated-sass": {
     "title": "Animate(d).sass",
     "date": "March 14, 2014",
