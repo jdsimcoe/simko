@@ -7,6 +7,3 @@ All of this is fine and well but why did I land on Harp? Harp was something new.
 Lastly Harp is built on [NodeJS](http://nodejs.org) and seems to be an emerging platform with lots of [work being invested](http://harpjs.com/blog/). I've realized that everybody has their favorite platform for various reasons. It would take a lifetime to understand and pick apart each one.
 
 My goal here was not to argue for or against platforms for static sites. Rather, I wanted to share my journey and encourage you to go on journeys of your own. Explore. Break things. Tear things apart. See how they work. That is how you will grow and stretch yourself as a designer. Nothing happens in a sterile room, or a vacuum. Explore something new. Change your scenery and perspective. Uncover something you didn't know before. Challenge yourself to move outside your comfort zone. It will make you a better designer and a better person.
-
-
-
