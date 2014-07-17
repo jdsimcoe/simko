@@ -1,4 +1,10 @@
 {
+  "smaller": {
+    "title": "Smaller",
+    "date": "July 17, 2014",
+    "breakout": "https://dl.dropboxusercontent.com/u/960204/simko.io/articles/smaller.svg",
+    "caption": "Smaller.app makes your CSS... well... smaller!"
+  },
   "on-harp": {
     "title": "On Harp",
     "date": "March 12, 2014",
