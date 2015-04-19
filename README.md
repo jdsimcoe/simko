@@ -1,3 +1,3 @@
 # Simko.io
 
-The website of Simcoe Design LLC.
+The website of Simko Design.
