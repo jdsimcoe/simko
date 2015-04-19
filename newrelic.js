@@ -8,11 +8,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name : ['Simko'],
+  app_name : ['simko'],
   /**
    * Your New Relic license key.
    */
-  license_key : '6e09b0277d50923968d154e46494e59cde827801',
+  license_key : 'ffa170dadfcb7ec675e91fa39261c1327edaf701',
   logging : {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
