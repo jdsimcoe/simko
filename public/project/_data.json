@@ -1,4 +1,13 @@
 {
+  "under-armour": {
+    "title": "Under Armour",
+    "url": "https://www.underarmour.com/en-us/technology",
+    "logo": "/assets/img/projects/underarmour-logo.svg",
+    "showcase" : "/assets/img/projects/underarmour-showcase.jpg",
+    "caption" : "The 2014-2015 Winter Catalog Technology Experience",
+    "start-date": "Winter 2014-2105",
+    "description": "We were tasked with building an interactive parallax experience for the UA 2014-2015 Winter Catalog."
+  },
   "mozo-shoes": {
     "title": "Mozo Shoes",
     "url": "http://mozoshoes.com/",
@@ -6,10 +15,10 @@
     "showcase" : "/assets/img/projects/mozo-showcase.jpg",
     "caption" : "Screenshots from the MozoShoes.com redesign",
     "start-date": "Early 2014",
-    "description": "Katasi Groove is an application concept that rewards drivers for driving safely."
+    "description": "We did a complete front-end redesign and refresh of MozoShoes.com"
   },
-  "groove": {
-    "title": "Groove (by Katasi)",
+  "groove-game": {
+    "title": "Groove Game",
     "url": "http://katasi.com/",
     "logo": "/assets/img/projects/groove-logo.svg",
     "showcase" : "/assets/img/projects/groove-showcase.jpg",

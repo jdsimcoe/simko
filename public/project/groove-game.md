@@ -1,4 +1,4 @@
-## Groove Game (by Katasi)
+## Groove Game
 
 I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
 
