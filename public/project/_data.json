@@ -1,4 +1,13 @@
 {
+  "the-gospel-coalition": {
+    "title": "TGC",
+    "url": "http://2015.thegospelcoalition.org/",
+    "logo": "/assets/img/projects/tgc-logo.svg",
+    "showcase" : "/assets/img/projects/tgc-showcase.jpg",
+    "caption" : "The website of the 2015 TGC National Conference",
+    "start-date": "Winter 2014-2105",
+    "description": "I did the bulk of the front-end implementation of the 2015 TGC National Conference website."
+  },
   "redeemer-church": {
     "title": "Redeemer Church",
     "url": "http://redeemerpdx.com/",
