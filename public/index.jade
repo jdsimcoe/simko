@@ -1,15 +1,8 @@
-li = 0
-each article, slug in public.article._data
-  if (li < articles_home)
-    - li = li + 1
-    article.content
-      section.main
-        .article
-          span.date= article.date
-          h2
-            a(href='/article/#{ slug }') #{ article.title }
-          if article.breakout
-            img.breakout(src='#{ article.breakout }')
-          if article.caption
-            span.caption #{ article.caption }
-          != partial("/article/" + slug, article)
+h2.subhead Projects I've Worked On
+
+.links
+  for project, slug in public.project._data
+    .links
+      a(href="/project/#{ slug }")
+        img(src="#{ project.logo }")
+        h3= project.title

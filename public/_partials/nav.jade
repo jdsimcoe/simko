@@ -1,9 +1,5 @@
 ul
-  li(class="#{ current.path[0] == 'archive' || current.path[0] == 'article' ? 'active' : '' }")
-    a(href='/archive') archive
-  li(class="#{ current.path[0] == 'log' ? 'active' : '' }")
-    a(href='/log') log
-  li(class="#{ current.path[0] == 'project' || current.path[0] == 'projects' ? 'active' : '' }")
-    a(href='/projects') projects
+  li(class="#{ current.path[0] !== 'about' ? 'active' : '' }")
+    a(href='/') projects
   li(class="#{ current.path[0] == 'about' ? 'active' : '' }")
     a(href='/about') about
