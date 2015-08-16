@@ -1,15 +1,11 @@
 ## Holdfast Fabrication
 
-I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
+Holdfast Fabriaction is a maker of fine, artisanal furniture in the Central Eastside of Portland, Oregon. I developed a concept for their branding that played on their industrial qualities and mimicked the shape of feel of solid furniture.
 
-### Web
+### Branding
 
-The site is built on [Symphony](http://getsymphony.com/), [Bootstrap](http://getbootstrap.com/), and the latest web technologies, including responsive design, icon fonts, retina images, and more. The site also features a custom CMS that allows for the management of hundreds of Events and thousands of teachings, comprising Athey's entire history of through-the-Bible sermons back through 1996. This is served up to the website both in dynamic pages as well as audio and video podcasts that are accessibly in the iTunes store.
+The main exercise was to develop a branding direction that echoed the strength exuded by Holdfast Fabrication and their furniture. Even the name Holdfast brings to the mind images of something strong and rigid.
 
-The Athey Creek website is featured by Bootstrap in their [Expo](http://expo.getbootstrap.com/), a showcase of exemplary uses of their web framework.
+I brough the "H" and "F" together for the primary mark in a way that mimicked the shape of a chair or table but also showed the strength that I felt the Holdfast brand should carry.
 
-### Design
-
-For Athey Creek I helped provide feedback and direction to another designer that built the new Athey branding. I have worked since then applying that branding in sermon artwork, event artwork, custom page artwork, and in Keynote presentations and other mediums.
-
-Some of this artwork creation has also been supplemented with custom photography and editing to achieve a variety of visual styles within the greater branding framework.
+From there the wordmark was just a further pushing this idea to build out the rest of the brand's look and feel. Overall, I wanted something modern and strong that would be memorable and easy to recognize and identify with Holdfast.

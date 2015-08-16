@@ -1,15 +1,17 @@
 ## Redeemer Church
 
-I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
+Since Redeemer Church has transitioned from being Mars Hill Portland, to its own independent church in 2015, I have led and now serve on our church's creative team. I led an initiative to create our new branding along with input, direction, and contribution from other designers and team members.
+
+Since then I have worked on sermon artwork, building the public website, and other creative endeavors.
 
 ### Web
 
-The site is built on [Symphony](http://getsymphony.com/), [Bootstrap](http://getbootstrap.com/), and the latest web technologies, including responsive design, icon fonts, retina images, and more. The site also features a custom CMS that allows for the management of hundreds of Events and thousands of teachings, comprising Athey's entire history of through-the-Bible sermons back through 1996. This is served up to the website both in dynamic pages as well as audio and video podcasts that are accessibly in the iTunes store.
+For the website, I chose [Siteleaf](https://siteleaf.com/) as a platform because of its simple, static-site approach and its rich admin interface that allows other church staff and volunteers to easily update content, preview the content, and then push it live to the site.
 
-The Athey Creek website is featured by Bootstrap in their [Expo](http://expo.getbootstrap.com/), a showcase of exemplary uses of their web framework.
+Siteleaf has worked well and enabled our church to have a robust website, free hosting on GitHub, and rich expression without the overhead of a large CMS that needs to be custom-hosted on a server.
 
 ### Design
 
-For Athey Creek I helped provide feedback and direction to another designer that built the new Athey branding. I have worked since then applying that branding in sermon artwork, event artwork, custom page artwork, and in Keynote presentations and other mediums.
+I have tried developing our design style cueing from the local feel of Portland, but also keeping the rich tradition and history of our church and our church building. The primary brand typeface, [Surveyor](http://www.typography.com/fonts/surveyor/overview/), shares a similar feel to a placard that was on the original church signage from the 1800s.
 
-Some of this artwork creation has also been supplemented with custom photography and editing to achieve a variety of visual styles within the greater branding framework.
+Gotham feels strong and solid and plays nicely with the handdrawn cross used in our primary logomark. The sermon artwork plays with the beautiful in-house photogrpahy we have, older woodcuts, and even modern hints to pop culture. All in all, the brand development has been organic and an expression of who our church is and where we live.
