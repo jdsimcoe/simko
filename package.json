@@ -1,9 +1,13 @@
 {
   "name": "Simko.io",
   "version": "2.0.1",
-  "description": "The Simko.io website, running on Heroku",
+  "description": "The public website of Simko.io",
+  "scripts": {
+  "start": "harp compile && surge www/ simko.surge.sh",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
   "dependencies": {
-    "harp": "*"
+    "harp": "^0.17.0"
   },
   "engines": {
     "node": "0.10.x",
@@ -11,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsimcoe/simko.io.git"
+    "url": "https://github.com/jsimcoe/simko.git"
   }
 }
