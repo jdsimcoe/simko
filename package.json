@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "description": "The public website of Simko.io",
   "scripts": {
-  "start": "harp compile && surge www/ simko.surge.sh",
+  "start": "harp compile && surge www/ simko.io",
   "test": "echo \"Error: no test specified\" && exit 1"
 },
   "dependencies": {
