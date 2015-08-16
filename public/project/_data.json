@@ -1,4 +1,21 @@
 {
+  "holdfast-fab": {
+    "title": "Hold∙Fast",
+    "url": "http://www.holdfastfab.com/",
+    "logo": "/assets/img/projects/holdfast-logo.svg",
+    "showcase" : "/assets/img/projects/holdfast-showcase.jpg",
+    "start-date": "Spring 2105",
+    "description": "I created an original branding idea for Holdfast Fabrication in Portland, OR."
+  },
+  "insignia-health": {
+    "title": "Insignia",
+    "url": "http://insigniahealth.com/",
+    "logo": "/assets/img/projects/insignia-logo.svg",
+    "showcase" : "/assets/img/projects/insignia-showcase.jpg",
+    "caption" : "Mockups and new proposed branding for Insignia Health",
+    "start-date": "Winter 2105",
+    "description": "I redesigned and rebuilt the Insignia Health public website."
+  },
   "the-gospel-coalition": {
     "title": "TGC",
     "url": "http://2015.thegospelcoalition.org/",
