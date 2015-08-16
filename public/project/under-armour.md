@@ -1,15 +1,17 @@
 ## Under Armour
 
-I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
+[Twin Technologies](https://www.twintechs.com/) engaged me a second time, to work with their dev teams building UnderArmour.com. UnderArmour.com is built on the MEAN-stack and it was my first large exposure to a large-scale Node environment.
 
 ### Web
 
-The site is built on [Symphony](http://getsymphony.com/), [Bootstrap](http://getbootstrap.com/), and the latest web technologies, including responsive design, icon fonts, retina images, and more. The site also features a custom CMS that allows for the management of hundreds of Events and thousands of teachings, comprising Athey's entire history of through-the-Bible sermons back through 1996. This is served up to the website both in dynamic pages as well as audio and video podcasts that are accessibly in the iTunes store.
+One of the biggest challenge was working within UnderArmour's massive Node framework to deliever a highly interactive parallax scrolling experience. Working in this environment meant building pages that had highly customized experiences with that had load of dependencies, modules and existing UI layers.
 
-The Athey Creek website is featured by Bootstrap in their [Expo](http://expo.getbootstrap.com/), a showcase of exemplary uses of their web framework.
+Our final solution had complicated direction, scroll targets and expected behavior. We used [ScrollMagic](http://scrollmagic.io/) as it seemed to have the greatest flexibility to achieve the desired experience and satisfy the client's requirements.
 
-### Design
+We delivered a refresh of the technology page for the Winter 2014-2015 catalog that had customized animation and also worked seamlessly on tablet and mobile responsive breakpoints:
 
-For Athey Creek I helped provide feedback and direction to another designer that built the new Athey branding. I have worked since then applying that branding in sermon artwork, event artwork, custom page artwork, and in Keynote presentations and other mediums.
+[https://www.underarmour.com/en-us/technology]()
 
-Some of this artwork creation has also been supplemented with custom photography and editing to achieve a variety of visual styles within the greater branding framework.
+The project was considered a success as we used parallax to deliver a highly-customized experience for Under Armour.
+
+*NOTE*: While I am not a proponent of parallax scrolling for many reasons (among them it's overuse), this project does display being able to deliver a complex solution, leading other developers, and producing expected results to meet the client's expectations.

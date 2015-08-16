@@ -1,15 +1,15 @@
 ## Insignia Health
 
-I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
-
-### Web
-
-The site is built on [Symphony](http://getsymphony.com/), [Bootstrap](http://getbootstrap.com/), and the latest web technologies, including responsive design, icon fonts, retina images, and more. The site also features a custom CMS that allows for the management of hundreds of Events and thousands of teachings, comprising Athey's entire history of through-the-Bible sermons back through 1996. This is served up to the website both in dynamic pages as well as audio and video podcasts that are accessibly in the iTunes store.
-
-The Athey Creek website is featured by Bootstrap in their [Expo](http://expo.getbootstrap.com/), a showcase of exemplary uses of their web framework.
+For Insignia Health I was tasked with doing a redesign of their outdated and stale corporate website. The old site was built on Wordpress and I wanted to move them not just to a better design direction but to a more modern CMS with richer expression.
 
 ### Design
 
-For Athey Creek I helped provide feedback and direction to another designer that built the new Athey branding. I have worked since then applying that branding in sermon artwork, event artwork, custom page artwork, and in Keynote presentations and other mediums.
+First, I developed some new concepts for their brand and site. I wanted to make the brand feel more fresh and modern as well as playfully hint at health without overused clichés. While the branding wasn't on the table for redesign I did work at representing PAM (their health survey platform) and Flourish in some creative, branded ways. I also built out mockups in [Sketch](http://bohemiancoding.com/sketch/) for their main site.
 
-Some of this artwork creation has also been supplemented with custom photography and editing to achieve a variety of visual styles within the greater branding framework.
+### Web
+
+For the implementation I worked under the creative direction of [Aaron Walser](http://www.aaronwalser.com/) to build Insignia's site using [Craft CMS](http://buildwithcraft.com/). I started with a styleguide-first approach, building out all of the website modules in a fully-styled Styleguide page and then building the data sections in the CMS rendering pages via templates.
+
+The approach worked well and allowed us to gain consensus on the modules being built and made the templating task much clearer as we knew what kind of data we would ultimately want to live there.
+
+Aaron and his team took my templates and instructions and were able to build all of their own internal pages themselves, with rich expression, live preview, and custom control over the look and feel of their site and pages.

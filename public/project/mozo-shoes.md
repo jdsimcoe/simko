@@ -1,15 +1,11 @@
 ## Mozo Shoes
 
-I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
+I was contacted by [Twin Technologies](https://www.twintechs.com/) to participate and lead a small team to do a complete front-end overhaul of [MozoShoes.com](http://mozoshoes.com/).
 
 ### Web
 
-The site is built on [Symphony](http://getsymphony.com/), [Bootstrap](http://getbootstrap.com/), and the latest web technologies, including responsive design, icon fonts, retina images, and more. The site also features a custom CMS that allows for the management of hundreds of Events and thousands of teachings, comprising Athey's entire history of through-the-Bible sermons back through 1996. This is served up to the website both in dynamic pages as well as audio and video podcasts that are accessibly in the iTunes store.
+This project was challenging in that we had the contraints of building the site on the [Demandware](http://www.demandware.com/) platform which has a workflow built around the Eclipse IDE. Running into walls with Eclipse syncing in OS X, we developed a modern Sass and JS-building workflow with Gulp, gulp-shell, and sycning files to the Demandware instance via [Transmit](https://panic.com/transmit/) WebDAV.
 
-The Athey Creek website is featured by Bootstrap in their [Expo](http://expo.getbootstrap.com/), a showcase of exemplary uses of their web framework.
+The Gulp workflow enabled us to tackle the site design, moving Mozo away from Bootstrap and toward a modern Sass front-end utilizing [Susy](http://susy.oddbird.net/) and other custom mixins.
 
-### Design
-
-For Athey Creek I helped provide feedback and direction to another designer that built the new Athey branding. I have worked since then applying that branding in sermon artwork, event artwork, custom page artwork, and in Keynote presentations and other mediums.
-
-Some of this artwork creation has also been supplemented with custom photography and editing to achieve a variety of visual styles within the greater branding framework.
+The project proved to be a success and the Mozo team was stoked about the fresh new site, the new visuals, and a step forward for their brand and eCommerce site.
