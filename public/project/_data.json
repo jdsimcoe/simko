@@ -1,4 +1,13 @@
 {
+  "redeemer-church": {
+    "title": "Redeemer Church",
+    "url": "http://redeemerpdx.com/",
+    "logo": "/assets/img/projects/redeemer-logo.svg",
+    "showcase" : "/assets/img/projects/redeemer-showcase.jpg",
+    "caption" : "Some sermon artwork showing use of Redeemer's brand",
+    "start-date": "Winter 2014-2105",
+    "description": "I led a creative team to brand our new church, build a website and produce brand-related assets like sermon artwork."
+  },
   "under-armour": {
     "title": "Under Armour",
     "url": "https://www.underarmour.com/en-us/technology",
