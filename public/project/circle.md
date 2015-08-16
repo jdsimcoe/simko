@@ -1,15 +1,17 @@
 ## Circle
 
-I have worked on AtheyCreek.com for several years taking on the development of their XSLT-based front-end and MySQL-based backend. The project began as redesign of an old ASP site and encompassed a radical technology shift, as well as an important and much-needed re-invisioning of the Athey Creek brand from the ground up.
+I started working at Circle in the Spring of 2015. My current role is sole Product Designer. I have developed a new branding, look and direction for Circle and have been applying my skills in the design of several iOS apps, their marketing website, print and retail display design, and various other internal projects.
 
-### Web
+### iOS Apps
 
-The site is built on [Symphony](http://getsymphony.com/), [Bootstrap](http://getbootstrap.com/), and the latest web technologies, including responsive design, icon fonts, retina images, and more. The site also features a custom CMS that allows for the management of hundreds of Events and thousands of teachings, comprising Athey's entire history of through-the-Bible sermons back through 1996. This is served up to the website both in dynamic pages as well as audio and video podcasts that are accessibly in the iTunes store.
+Working at Circle marks my first major foray into iOS app design. Having developed skills in [Sketch](http://bohemiancoding.com/sketch/) over the past year I have been able to successfully apply my skills in developing out the UI and UX of several involved applications. I have touched everything from visual design, to experience design, UI layout, scaling across multiple device sizes, and working at prototyping onboarding and motion.
 
-The Athey Creek website is featured by Bootstrap in their [Expo](http://expo.getbootstrap.com/), a showcase of exemplary uses of their web framework.
+I have used FramerJS in past projects, but have found [Atomic](https://atomic.io/) to be a really fast way to explore a design direction and get quick feedback on motion and application flow.
 
-### Design
+Lots of time has been spent working through the flow of our applications and ensuring that the experience is seamless and easy to walk the user through what would be an otherwise very complicated process.
 
-For Athey Creek I helped provide feedback and direction to another designer that built the new Athey branding. I have worked since then applying that branding in sermon artwork, event artwork, custom page artwork, and in Keynote presentations and other mediums.
+### Web Design
 
-Some of this artwork creation has also been supplemented with custom photography and editing to achieve a variety of visual styles within the greater branding framework.
+For the marketing website I have forayed into new technologies and ways to build sites that are lean and utilizing some of the latest trends in web design. So far, the site is built using Segment's [Metalsmith](http://metalsmith.io/) which is an npm-based build pipeline that has a built-in server with autoreload for testing but also builds SCSS, CommonJS via [Webpack](http://webpack.github.io/). Pushes to GitHub are tested via a [Wercker](https://wercker.com/) config and then deployed to either [Surge](https://surge.sh/) or Amazon S3 through Wercker. Other employees can edit content through a custom [Prose](httsp://prose.io/) config.
+
+Learning these new technologies enables the website to be lean, fast, and solid served to users via static hosting. It is exciting having tools at my fingertips that enable rich, creative expression and allow us to move design forward with better technology.
