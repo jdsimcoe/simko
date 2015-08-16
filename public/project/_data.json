@@ -1,4 +1,12 @@
 {
+  "circle": {
+    "title": "Circle",
+    "url": "http://meetcircle.com/",
+    "logo": "/assets/img/projects/circle-logo.svg",
+    "showcase" : "/assets/img/projects/circle-showcase.jpg",
+    "start-date": "Spring/Summer 2105",
+    "description": "I have led the branding, app design, web, and brand design of Circle since Spring 2015."
+  },
   "holdfast-fab": {
     "title": "Hold∙Fast",
     "url": "http://www.holdfastfab.com/",
