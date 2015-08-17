@@ -1,4 +1,4 @@
-## Holdfast Fabrication
+## Holdfast Fabrications
 
 Holdfast Fabriaction is a maker of fine, artisanal furniture in the Central Eastside of Portland, Oregon. I developed a concept for their branding that played on their industrial qualities and mimicked the shape of feel of solid furniture.
 
